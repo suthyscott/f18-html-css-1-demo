@@ -1,0 +1,35 @@
+* {
+    font-family: monospace;
+}
+
+h1 {
+    background-color: rgb(180, 33, 33);
+    color: white;
+}
+
+/* h1, h2, h3 {
+    background-color: blue;
+} */
+
+/* div {
+    height: 200px;
+    width: 400px;
+    background-image: url('https://wallpaperaccess.com/full/52447.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    color: white;
+} */
+
+div {
+    width: 50vw;
+    height: 50vh;
+    background-color: green;
+    border: blue 20px solid;
+    padding: 20px;
+    margin: 40px;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+}
